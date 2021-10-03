@@ -1,0 +1,20 @@
+#logo
+{
+height: 300px;
+}
+#logobig
+{
+width: 100%;
+}
+
+.text-justi
+{
+    text-align: justify;
+}
+.valeurs{
+    height: 75px;
+}
+.card
+{
+    width: 14rem;
+}
